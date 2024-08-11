@@ -1,4 +1,4 @@
-Hi 👋
+### Hi 👋
 
 I'm passionate about programming and driven by a fascination for solving captivating challenges, I'm a Computer Science graduate with a solid foundation in tackling technical problems, pioneering new technologies through research, and crafting innovative software solutions.
 
@@ -16,3 +16,4 @@ Open to exciting career opportunities and collaborations that align with my expe
 
 ### My Stats :
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alejmilian)](https://git.io/streak-stats)
