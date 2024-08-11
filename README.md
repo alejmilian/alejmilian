@@ -3,3 +3,12 @@ Passionate about programming and driven by a fascination for solving captivating
 My skillset encompasses a diverse range of programming languages and technologies, including .Net Core, Node.js, TypeScript, AWS and SQL. With a commitment to continuous growth, I actively seek opportunities to expand my skillset further and engage in fresh projects that not only facilitate my ongoing learning but also allow me to apply the wealth of knowledge I've accumulated throughout my academic and professional journey.
 
 Open to exciting career opportunities and collaborations that align with my expertise and passion for creating impactful solutions in the tech industry.
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/alejmilian/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="www.twitter.com/alejmilian">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
