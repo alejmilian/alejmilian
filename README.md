@@ -14,6 +14,6 @@ Open to exciting career opportunities and collaborations that align with my expe
 
 ### 🔥 My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejmilian&hide_progress=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alejmilian&theme=dark&hide_border=true&card_height=100&hide_current_streak=true)](https://git.io/streak-stats)
