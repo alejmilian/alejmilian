@@ -8,6 +8,7 @@ Open to exciting career opportunities and collaborations that align with my expe
   <a href="https://www.linkedin.com/in/alejmilian/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  ![](https://komarev.com/ghpvc/?username=alejmilian)
 </div>
 
-![](https://komarev.com/ghpvc/?username=alejmilian)
+
