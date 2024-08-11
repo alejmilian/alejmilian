@@ -12,8 +12,6 @@ Open to exciting career opportunities and collaborations that align with my expe
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=alejmilian)
-
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alejmilian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alejmilian&theme=highcontrast&hide_border=true&card_height=100&hide_current_streak=true)](https://git.io/streak-stats)
