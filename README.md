@@ -8,7 +8,4 @@ Open to exciting career opportunities and collaborations that align with my expe
   <a href="https://www.linkedin.com/in/alejmilian/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/alejmilian">
-    <img src="https://img.shields.io/badge/twitter?style=social&logoColor=black" alt="Twitter Badge"/>
-  </a>
 </div>
