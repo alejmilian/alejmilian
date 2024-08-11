@@ -11,9 +11,3 @@ Open to exciting career opportunities and collaborations that align with my expe
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-### 🔥 My Stats :
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejmilian&hide_progress=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=alejmilian&theme=dark&hide_border=true&card_height=100&hide_current_streak=true)](https://git.io/streak-stats)
